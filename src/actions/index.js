@@ -7,6 +7,3 @@ export const fetchPosts = () => async dispatch => {
     payload: response,
   })
 }
-
-
-
